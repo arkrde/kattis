@@ -7,6 +7,10 @@ name = "even_up_solitaire"
 version = "0.1.0"
 
 [[package]]
+name = "iboard"
+version = "0.1.0"
+
+[[package]]
 name = "mixed_fractions"
 version = "0.1.0"
 
