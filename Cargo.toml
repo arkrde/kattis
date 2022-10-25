@@ -8,4 +8,7 @@ members = [
 [workspace.package]
 version = "0.1.0"
 edition = "2021"
-description = "Solution to various Codewars problems"
+authors = ["Arnab De<arkrde@gmail.com>", "Debomita Saha De<dsahade@gmail.com>"]
+license-file = "LICENSE"
+description = "Solution to various Kattis problems"
+categories = ["competitive programming"]
