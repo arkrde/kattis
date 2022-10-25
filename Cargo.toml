@@ -1,0 +1,11 @@
+[workspace]
+members = [
+  "mixed_fractions",
+  "prob_99_problems",
+  "even_up_solitaire"
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+description = "Solution to various Codewars problems"
