@@ -2,7 +2,8 @@
 members = [
   "mixed_fractions",
   "prob_99_problems",
-  "even_up_solitaire"
+  "even_up_solitaire",
+  "vauvau"
 ]
 
 [workspace.package]
