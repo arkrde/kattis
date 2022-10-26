@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "easiest_problem"
+version = "0.1.0"
+
+[[package]]
 name = "even_up_solitaire"
 version = "0.1.0"
 

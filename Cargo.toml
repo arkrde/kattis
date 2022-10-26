@@ -4,7 +4,9 @@ members = [
   "prob_99_problems",
   "even_up_solitaire",
   "vauvau",
-  "iboard"
+  "iboard",
+  #"roseto",
+  "easiest_problem"
 ]
 
 [workspace.package]
