@@ -15,11 +15,19 @@ name = "iboard"
 version = "0.1.0"
 
 [[package]]
+name = "math_homework"
+version = "0.1.0"
+
+[[package]]
 name = "mixed_fractions"
 version = "0.1.0"
 
 [[package]]
 name = "prob_99_problems"
+version = "0.1.0"
+
+[[package]]
+name = "sum_of_others"
 version = "0.1.0"
 
 [[package]]

@@ -8,6 +8,8 @@ members = [
   #"roseto",
   "easiest_problem",
   "tetration",
+  "math_homework",
+  "sum_of_others",
 ]
 
 [workspace.package]
