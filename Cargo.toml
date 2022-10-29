@@ -3,7 +3,10 @@ members = [
   "mixed_fractions",
   "prob_99_problems",
   "even_up_solitaire",
-  "closest_sum"
+  "closest_sum",
+  #"tautology",
+  #"ants",
+  "anti_arithmetic"
 ]
 
 [workspace.package]
